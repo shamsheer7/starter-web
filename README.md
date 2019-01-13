@@ -15,3 +15,7 @@ Sample website with plenty of files for demos
 Deployment can be on any web server or a local machine
 
 ## How To Contribute
+
+###Copyright
+
+2018 ShamsheerGit
