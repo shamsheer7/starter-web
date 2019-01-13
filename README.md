@@ -12,6 +12,6 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Deployment can be on any web server
+Deployment can be on any web server or a local machine
 
 ## How To Contribute
