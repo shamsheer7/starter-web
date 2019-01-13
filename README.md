@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-2018 ShamsheerGit
+2018 ShamsheerGit All rights reserved.
